@@ -3,7 +3,7 @@
  <b>Be the HERO that ONGs need!</b>
  
  ![](https://img.shields.io/badge/omnistack-11-blueviolet?style=flat-square)
- ![alt release](https://img.shields.io/github/v/release/jeferson-sb/be-the-hero?style=flat-square)
+ ![alt release](https://img.shields.io/badge/release-v1.0.0-blue?style=flat-square&logo=appveyor)
 </h4>
 
 <br />
